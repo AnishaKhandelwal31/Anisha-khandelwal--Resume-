@@ -13,7 +13,7 @@ and data-driven decision-making. </li></ul> </p>
 <li>Deployed and managed cloud applications using AWS services like EC2, S3, Lambda, and RDS, focusing on scalability, cost efficiency, and security best practices.</li> </ul></p> <br>
 <hr>
 <h3> <b> ACADEMIC PROJECTS </b></h3>
-<p><i>Brain Stroke Prediction May 2024 May 2024</i>
+<p><i>Brain Stroke Prediction,       2024</i>
  <ul>
 <li>The project utilizes numerical and brain X-ray image datasets to predict the risk of brain stroke with 95% accuracy.</li>
 <li> Utilized Convolutional Neural Networks (CNN) for stroke pattern detection, enhanced model interpretability with 
@@ -24,7 +24,18 @@ detection</li>
  </ul></p>
 <br>
 
-<p><i>Move-Mentor : connecting abilities July 2023</i> 
+<p><i>Vrinda-Store-Sales-Analysis Interactive Dashboard,    2024</i>
+ <ul>
+<li>Created a 2022 sales report for Vrinda Store to understand customer behavior and improve sales strategies
+   for 2023</li>
+<li>Analyzed KPIs like sales comparison, top sales month, gender-based purchases, top states, and sales
+   channels.</li>
+<li>Insights: Women ( 65 percent) aged 30-49 from Maharashtra, Karnataka, and UP are key. Focus ads on
+   Amazon, Flipkart, and Myntra</li>
+ </ul></p>
+<br>
+
+<p><i>Move-Mentor : connecting abilities,    2023</i> 
  <ul> 
 <li> Developed a sign language recognition model to bridge the communication gap for deaf blind individuals. Leveraged
 advanced computer vision techniques to analyze hand gestures with 95% accuracy.</li>
@@ -36,7 +47,7 @@ advanced computer vision techniques to analyze hand gestures with 95% accuracy.<
   <br>
 <hr>
 <h3> <b>SKILLS</b></h3>
-<p><i> Technical Skills:<br> C++, Python(NumPy, Pandas, Matplotlib), SQL,Power BI, MySQL, AWS, Salesforce developer 
+<p><i> Technical Skills:<br> C++, Python(NumPy, Pandas, Matplotlib),MS Excel, SQL, Power BI, MySQL, AWS, Salesforce developer 
 console.</i></p>
 <p><i>Soft Skills:<br> Strong Verbal & Written Communication, Multi-Tasking & Prioritization , Teamwork, Adaptability, Resilience, Self-Learning</i></p>
 <p><i>Problem-Solving:<br> Root Cause Analysis, Abstract Problem Solving, Hypothesis-Driven Analysis</i></p>
