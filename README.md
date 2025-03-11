@@ -37,7 +37,8 @@ advanced computer vision techniques to analyze hand gestures with 95% accuracy.<
 <h3> <b>SKILLS</b></h3>
 <p><i> Technical Skills:<br> C++, Python(NumPy, Pandas, Matplotlib), SQL,Power BI, MySQL, AWS, Salesforce developer 
 console.</i></p>
-<p><i>Soft Skills:<br> Excellent Communication, Teamwork, Adaptability, Resilience, Self-Learning</i></p>
+<p><i>Soft Skills:<br> Strong Verbal & Written Communication, Multi-Tasking & Prioritization , Teamwork, Adaptability, Resilience, Self-Learning</i></p>
+<p><i>Problem-Solving:<br> Root Cause Analysis, Abstract Problem Solving, Hypothesis-Driven Analysis</i></p>
 <hr>
 <h3><b>EDUCATION </b></h3>
 <p><i>Vellore Institute of Technology,Bhopal,MP</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
