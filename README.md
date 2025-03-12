@@ -4,7 +4,7 @@
 Motivated final-year student with strong analytical, problem-solving, and teamwork skills. Quick learner, eager to apply technical knowledge to real-world challenges.
 <hr>
 <h3> <b> ACADEMIC PROJECTS </b></h3>
-<p><i>Brain Stroke Prediction,       2024</i>
+<p><i><b>Brain Stroke Prediction,       2024 </b>| Machine Learning, Deep Learning, Grad-Cam, Image Processing </i>
  <ul>
 <li>Developed a CNN-based model with Grad-CAM for stroke risk prediction, achieving 95% accuracy
 </li>
@@ -12,7 +12,7 @@ Motivated final-year student with strong analytical, problem-solving, and teamwo
  </ul></p>
 <br>
 
-<p><i>Vrinda-Store-Sales-Analysis Interactive Dashboard,    2024</i>
+<p><i><b>Vrinda-Store-Sales-Analysis Interactive Dashboard,    2024 </b>| MS Excel, Data Analysis                                                                      </i>
  <ul>
 <li>Created a 2022 sales dashboard to identify key customer insights for 2023 strategy.
 </li>
@@ -20,7 +20,7 @@ Motivated final-year student with strong analytical, problem-solving, and teamwo
  </ul></p>
 <br>
 
-<p><i>Move-Mentor : connecting abilities,    2023</i> 
+<p><i><b>Move-Mentor : connecting abilities,    2023 </b>| Machine Learning, Deep Learning, Media Pipe </i> 
  <ul> 
 <li>A sign language recognition system with 95% accuracy using LSTM Neural Networks, Python, Media Pipe Holistic, Machine learning.
 </li>
