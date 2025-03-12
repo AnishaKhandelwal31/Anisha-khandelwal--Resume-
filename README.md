@@ -31,7 +31,7 @@ Results-driven final-year student with strong analytical, problem-solving, and d
   </p>
 <hr>
 <h3> <b>SKILLS</b></h3>
-<p><i> Technical Skills:<br> C++, Python(NumPy, Pandas, Matplotlib),MS Excel, SQL, Power BI, MySQL, AWS, Salesforce developer 
+<p><i> Technical Skills:<br> Python(NumPy, Pandas, Matplotlib), MS Excel, SQL, Power BI, MySQL, Business Analysis, Salesforce developer 
 console.</i></p>
 <p><i>Problem-Solving:<br> Root Cause Analysis, Abstract Problem Solving, Hypothesis-Driven Analysis</i></p>
 <hr>
